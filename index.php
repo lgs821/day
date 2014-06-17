@@ -1,3 +1,4 @@
 <?php
-phpinfo();
+//测试
+echo "hello world !";
 ?>
